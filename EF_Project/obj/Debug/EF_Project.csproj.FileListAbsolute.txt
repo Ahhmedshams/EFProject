@@ -1,0 +1,58 @@
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EF_Project.exe.config
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EF_Project.exe
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EF_Project.pdb
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EntityFramework.dll
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EntityFramework.xml
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.csproj.AssemblyReference.cache
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Form1.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.AddCtegoriesForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.CategoryAfterPeriodForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.CategoryForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.CategoryReportForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.CategoryTransfareReportForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.CustomerForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.ExpireCategoryReportForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.ExportForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.ImportForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.SupplierForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.TransfareForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.WarehouseForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.WarehouseReportForm.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Properties.Resources.resources
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.csproj.GenerateResource.cache
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.csproj.CopyComplete
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.exe
+E:\New folder (2)\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.pdb
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Form1.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.AddCtegoriesForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.CategoryAfterPeriodForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.CategoryForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.CategoryReportForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.CategoryTransfareReportForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.CustomerForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.ExpireCategoryReportForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.ExportForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.ImportForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.SupplierForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.TransfareForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.WarehouseForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Forms.WarehouseReportForm.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.exe
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.pdb
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EF_Project.exe.config
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EF_Project.exe
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EF_Project.pdb
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EntityFramework.dll
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EntityFramework.xml
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Warehouse-System-Entity-Framework-main\EF_Project\obj\Debug\EF_Project.csproj.CopyComplete
